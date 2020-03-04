@@ -5,7 +5,7 @@ using System.Text;
 //https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
 namespace LeetCode.Easy.FindAllNumbersDisappearedInanArray
 {
-    class Solution
+    class FindAllNumbersDisappearedInanArray
     {
         /// <summary>
         /// Use boolean Array. O(n) runtime, O(n) space, smaller constant than hashset
