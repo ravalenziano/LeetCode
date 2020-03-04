@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
+//https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
 namespace LeetCode.Easy.FindAllNumbersDisappearedInanArray
 {
     class Solution
