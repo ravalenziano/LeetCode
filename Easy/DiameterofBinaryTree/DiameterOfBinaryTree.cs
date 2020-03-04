@@ -4,8 +4,14 @@ using System.Text;
 
 namespace LeetCode.Easy.DiameterofBinaryTree
 {
+    //https://leetcode.com/problems/diameter-of-binary-tree/
     class DiameterOfBinaryTreeAns
     {
+        /// <summary>
+        /// Recursive solution O(n) time, O(n) space
+        /// </summary>
+        /// <param name="root"></param>
+        /// <returns></returns>
         public int DiameterOfBinaryTree(TreeNode root)
         {
             if(root == null)
