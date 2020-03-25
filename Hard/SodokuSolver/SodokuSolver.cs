@@ -4,10 +4,9 @@ using System.Text;
 
 namespace LeetCode.Hard.SodokuSolver
 {
+    //https://leetcode.com/problems/sudoku-solver/
     class SodokuSolver
     {
-
-      
 
         public void SolveSudoku(char[][] board)
         {
